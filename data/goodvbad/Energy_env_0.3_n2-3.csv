@@ -1,0 +1,201 @@
+,word,good_score,bad_score,good_score_all,bad_score_all,count,good_nums,bad_nums,diff
+21,capital exploration,0.0,21.52,0.0,21.52,914,0,6,6
+124,oil condensate ngls,0.0,21.52,0.0,21.52,1104,0,6,6
+159,price realization,8.55,21.52,1.42,21.52,921,1,6,5
+54,energy service,9.83,20.29,9.83,3.38,3563,6,1,5
+67,exploratory well cost,8.98,21.52,1.5,21.52,1000,1,6,5
+173,sale operating revenue,0.0,21.88,0.0,18.24,882,0,5,5
+183,service segment,9.83,20.0,9.83,3.33,1453,6,1,5
+66,exploration expense,8.98,21.52,1.5,21.52,1459,1,6,5
+24,commodity derivative instrument,13.83,21.52,2.31,21.52,1169,1,6,5
+185,statement continued,8.98,21.82,1.5,18.18,4038,1,5,4
+96,international total,7.31,21.14,1.22,17.62,1185,1,5,4
+182,service product,9.83,21.14,9.83,7.04,1756,6,2,4
+38,dd rate,13.83,21.76,2.31,18.13,1033,1,5,4
+50,employee stock purchase,9.29,19.67,7.74,3.28,917,5,1,4
+147,per boe,0.0,21.35,0.0,14.24,1184,0,4,4
+46,distribution service,10.79,0.0,7.19,0.0,1047,4,0,4
+75,financial statement continued,8.98,21.82,1.5,18.18,4026,1,5,4
+2,adjusted ebitda,10.97,0.0,7.32,0.0,1051,4,0,4
+83,gas production revenue,8.98,22.28,1.5,14.86,1507,1,4,3
+95,integral part consolidated,8.55,21.7,1.42,14.47,1064,1,4,3
+126,oil revenue,8.76,21.76,2.92,18.13,873,2,5,3
+125,oil gas corporation,8.98,21.42,1.5,14.28,1218,1,4,3
+36,corporation subsidiary note,0.0,20.76,0.0,10.38,1013,0,3,3
+139,part consolidated financial,8.55,21.7,1.42,14.47,1023,1,4,3
+68,file incorporated,9.79,20.0,6.53,3.33,1518,4,1,3
+92,income expense net,10.34,21.72,8.62,7.24,1316,5,2,3
+48,drilling contractor,9.16,19.67,6.1,3.28,938,4,1,3
+120,note integral part,10.54,21.76,3.52,18.13,1628,2,5,3
+119,note integral,10.54,21.76,3.52,18.13,1635,2,5,3
+55,energy service segment,10.2,0.0,5.1,0.0,880,3,0,3
+56,energy transfer,10.45,0.0,5.23,0.0,991,3,0,3
+112,national oilwell,9.22,0.0,4.61,0.0,2040,3,0,3
+109,marathon oil corporation,0.0,21.91,0.0,10.96,2203,0,3,3
+35,corporation incentive,7.31,21.86,1.22,14.57,1385,1,4,3
+108,marathon oil,0.0,21.91,0.0,10.96,3474,0,3,3
+138,part consolidated,8.76,21.76,2.92,18.13,1067,2,5,3
+158,pretax operating income,9.22,0.0,4.61,0.0,990,3,0,3
+3,adopted pursuant,9.29,21.88,7.74,7.29,1043,5,2,3
+4,adopted pursuant section,9.29,21.88,7.74,7.29,1037,5,2,3
+196,unconsolidated affiliate,10.34,21.72,8.62,7.24,1045,5,2,3
+186,stock purchase plan,9.29,21.72,7.74,7.24,1048,5,2,3
+181,service group,9.16,23.76,6.1,3.96,965,4,1,3
+175,sec file,0.0,21.8,0.0,10.9,2935,0,3,3
+88,hold percent,11.4,21.88,3.8,18.24,1047,2,5,3
+169,regulatory asset,10.45,0.0,5.23,0.0,1182,3,0,3
+32,contract rate,10.34,21.14,8.62,7.04,1075,5,2,3
+162,production solution,9.22,0.0,4.61,0.0,924,3,0,3
+22,chevron corporation,13.83,21.42,2.31,14.28,2130,1,4,3
+152,petroleum service,9.61,0.0,4.8,0.0,1557,3,0,3
+146,per bbl,11.19,21.76,3.73,18.13,1330,2,5,3
+143,partner natural gas,10.45,0.0,5.23,0.0,973,3,0,3
+142,partner natural,10.45,0.0,5.23,0.0,975,3,0,3
+106,macondo well,9.22,0.0,4.61,0.0,1882,3,0,3
+89,hydrocarbon natural,0.0,22.87,0.0,7.62,1064,0,2,2
+1,accompanying note integral,10.54,21.7,3.52,14.47,1584,2,4,2
+90,hydrocarbon natural gas,0.0,22.87,0.0,7.62,1060,0,2,2
+102,liquid hydrocarbon,8.76,22.2,2.92,14.8,2342,2,4,2
+91,incentive compensation plan,8.14,22.28,2.72,14.86,917,2,4,2
+87,halliburton company,10.17,0.0,3.39,0.0,1982,2,0,2
+103,liquid hydrocarbon natural,0.0,22.87,0.0,7.62,1060,0,2,2
+105,liquid segment,11.4,0.0,3.8,0.0,1081,2,0,2
+0,accompanying note consolidated,13.83,21.89,2.31,10.94,1143,1,3,2
+127,oilwell varco,9.92,0.0,3.31,0.0,1521,2,0,2
+113,national oilwell varco,9.92,0.0,3.31,0.0,1513,2,0,2
+137,overland pas pipeline,11.4,0.0,3.8,0.0,888,2,0,2
+189,synthetic crude,0.0,22.02,0.0,7.34,942,0,2,2
+174,schlumberger limited,9.92,0.0,3.31,0.0,1374,2,0,2
+157,pretax operating,9.22,20.0,4.61,3.33,1990,3,1,2
+154,pipeline business,10.45,20.0,5.23,3.33,902,3,1,2
+145,pas pipeline,11.4,0.0,3.8,0.0,926,2,0,2
+144,partner segment,11.4,0.0,3.8,0.0,973,2,0,2
+136,overland pas,11.4,0.0,3.8,0.0,916,2,0,2
+116,northwest pipeline,8.76,0.0,2.92,0.0,1786,2,0,2
+132,oneok partner,11.19,0.0,3.73,0.0,19569,2,0,2
+123,occidental petroleum corporation,0.0,20.99,0.0,7.0,2425,0,2,2
+122,occidental petroleum,8.55,20.76,1.42,10.38,2497,1,3,2
+121,notional volume,11.4,21.26,3.8,14.17,988,2,4,2
+118,note condensed consolidated,7.8,21.02,1.3,10.51,1026,1,3,2
+117,note condensed,7.8,21.02,1.3,10.51,1027,1,3,2
+85,gathering processing segment,11.4,0.0,3.8,0.0,967,2,0,2
+199,williams partner,10.45,23.39,5.23,3.9,2825,3,1,2
+26,company note consolidated,8.03,20.29,4.01,3.38,894,3,1,2
+41,december sec file,0.0,20.83,0.0,6.94,882,0,2,2
+59,eog resource,8.98,20.55,1.5,10.28,2176,1,3,2
+23,class share,10.45,23.76,5.23,3.96,1378,3,1,2
+27,condensed consolidated balance,7.8,21.02,1.3,10.51,953,1,3,2
+28,condensed consolidated financial,10.82,21.7,3.6,14.47,2203,2,4,2
+61,equity affiliate,11.4,21.51,3.8,14.34,1536,2,4,2
+37,cost operating expense,8.76,21.51,2.92,14.34,871,2,4,2
+80,gas liquid segment,11.4,0.0,3.8,0.0,1081,2,0,2
+153,petroleum service supply,12.54,0.0,2.09,0.0,1082,1,0,1
+16,brokered natural,0.0,23.39,0.0,3.9,885,0,1,1
+161,product pipeline,10.45,22.02,5.23,7.34,916,3,2,1
+160,processing segment,10.45,21.53,5.23,7.18,977,3,2,1
+17,brokered natural gas,0.0,23.39,0.0,3.9,881,0,1,1
+18,brown root,7.8,0.0,1.3,0.0,953,1,0,1
+156,powder river,10.45,20.93,5.23,13.95,941,3,4,1
+31,consolidated condensed,10.17,20.0,3.39,3.33,990,2,1,1
+141,partner credit agreement,13.83,0.0,2.31,0.0,1046,1,0,1
+151,petroleum corporation incentive,0.0,20.0,0.0,3.33,1023,0,1,1
+148,percent senior,11.4,20.76,3.8,10.38,911,2,3,1
+163,profit loss,9.47,20.55,6.31,10.28,1146,4,3,1
+34,convertible preferred,10.45,21.51,5.23,14.34,987,3,4,1
+33,contract rate fair,12.54,0.0,2.09,0.0,926,1,0,1
+29,condensed consolidated statement,9.63,21.53,4.82,7.18,1046,3,2,1
+30,condensed consolidating,10.06,20.99,5.03,7.0,886,3,2,1
+81,gas pipe,10.34,21.52,8.62,21.52,891,5,6,1
+165,rate case,9.79,21.68,6.53,10.84,1127,4,3,1
+133,oneok partner credit,13.83,0.0,2.31,0.0,1323,1,0,1
+166,reference exhibit halliburton,7.8,0.0,1.3,0.0,1058,1,0,1
+197,well incident,7.56,21.98,2.52,3.66,1497,2,1,1
+5,among williams,8.98,0.0,1.5,0.0,1164,1,0,1
+191,thousand except,11.23,21.26,5.61,14.17,1049,3,4,1
+6,analysis continued,8.98,0.0,1.5,0.0,1269,1,0,1
+188,subsidiary note consolidated,9.9,20.99,4.95,7.0,1078,3,2,1
+187,subsidiary consolidated,9.67,20.76,6.44,10.38,1266,4,3,1
+7,apache corporation,8.76,20.55,2.92,10.28,3760,2,3,1
+8,apache corporation subsidiary,0.0,21.98,0.0,3.66,1711,0,1,1
+184,stated million,10.04,21.72,5.02,7.24,2437,3,2,1
+180,selling general administrative,10.76,21.35,3.59,10.68,1023,2,3,1
+179,selling general,10.76,21.35,3.59,10.68,1028,2,3,1
+178,segment profit,8.98,22.02,1.5,7.34,1712,1,2,1
+177,segment ebda,8.55,0.0,1.42,0.0,1043,1,0,1
+176,segment earnings,10.45,20.14,5.23,6.72,1126,3,2,1
+12,available common,10.45,21.33,5.23,14.22,1087,3,4,1
+13,beginning page,10.04,21.78,5.02,14.52,1030,3,4,1
+14,border pipeline,11.19,23.76,3.73,3.96,919,2,1,1
+172,rig technology,12.54,0.0,2.09,0.0,1721,1,0,1
+171,report occidental,0.0,20.0,0.0,3.33,1645,0,1,1
+170,report file incorporated,8.98,0.0,1.5,0.0,1220,1,0,1
+167,refined petroleum,10.45,22.02,5.23,7.34,901,3,2,1
+134,oneok partner natural,13.83,0.0,2.31,0.0,917,1,0,1
+140,partner credit,13.83,0.0,2.31,0.0,1381,1,0,1
+63,exhibit halliburton,7.8,0.0,1.3,0.0,1073,1,0,1
+97,interstate natural,10.45,21.53,5.23,7.18,1006,3,2,1
+107,macondo well incident,7.8,0.0,1.3,0.0,1452,1,0,1
+62,exhibit eog,0.0,19.67,0.0,3.28,1876,0,1,1
+131,oneok oneok partner,13.83,0.0,2.31,0.0,884,1,0,1
+64,exhibit williams,8.98,0.0,1.5,0.0,1650,1,0,1
+65,exhibit williams company,8.98,0.0,1.5,0.0,1221,1,0,1
+101,latin america,9.16,20.76,6.1,10.38,2115,4,3,1
+69,file incorporated herein,8.76,20.0,2.92,3.33,1472,2,1,1
+99,kinder morgan,10.45,21.35,5.23,14.24,5162,3,4,1
+98,interstate natural gas,10.45,21.53,5.23,7.18,1006,3,2,1
+71,filed exhibit quarterly,11.78,19.84,5.89,6.61,973,3,2,1
+114,ngl product,10.45,21.26,5.23,14.17,1258,3,4,1
+94,index financial statement,11.64,21.7,5.82,14.47,1338,3,4,1
+93,index financial,11.64,21.7,5.82,14.47,1349,3,4,1
+73,financial commodity derivative,13.83,21.53,2.31,7.18,1079,1,2,1
+74,financial position cash,10.79,22.38,7.19,11.19,974,4,3,1
+76,firm transportation,10.45,22.2,5.23,14.8,1123,3,4,1
+77,gas corporation,10.45,21.42,5.23,14.28,1307,3,4,1
+78,gas distribution,10.45,21.26,5.23,14.17,975,3,4,1
+79,gas gathering processing,10.45,21.35,5.23,14.24,2263,3,4,1
+84,gas segment,9.79,21.91,6.53,10.96,1026,4,3,1
+58,eog annual report,0.0,19.67,0.0,3.28,993,0,1,1
+100,lago agrio,0.0,20.29,0.0,3.38,983,0,1,1
+45,discussion analysis continued,8.98,0.0,1.5,0.0,1269,1,0,1
+128,oneok credit,13.83,0.0,2.31,0.0,1003,1,0,1
+43,deferred credit,10.45,21.51,5.23,14.34,1482,3,4,1
+44,dii industry,7.8,0.0,1.3,0.0,1573,1,0,1
+130,oneok oneok,13.83,0.0,2.31,0.0,1120,1,0,1
+115,northern border,11.4,20.0,3.8,3.33,1330,2,1,1
+57,eog annual,0.0,19.67,0.0,3.28,1054,0,1,1
+53,energy partner,10.45,22.28,5.23,14.86,1220,3,4,1
+49,earnings per common,10.97,21.79,7.32,10.9,962,4,3,1
+40,december occidental,0.0,20.0,0.0,3.33,992,0,1,1
+52,energy marketing trading,11.4,20.29,3.8,3.38,1342,2,1,1
+129,oneok credit agreement,13.83,0.0,2.31,0.0,900,1,0,1
+72,financial commodity,10.45,21.02,5.23,10.51,1143,3,3,0
+42,deferred charge,10.45,21.89,5.23,10.94,1332,3,3,0
+82,gas pipe line,8.98,23.39,1.5,3.9,879,1,1,0
+190,thousand dollar,13.18,21.72,4.39,7.24,1132,2,2,0
+10,attributable common stock,8.76,20.99,2.92,7.0,1061,2,2,0
+86,general partner interest,10.45,21.79,5.23,10.9,871,3,3,0
+192,thousand except per,11.23,21.68,5.61,10.84,873,3,3,0
+193,transcontinental gas,8.98,23.39,1.5,3.9,915,1,1,0
+194,transcontinental gas pipe,8.98,23.39,1.5,3.9,891,1,1,0
+195,trustee filed,8.76,20.14,2.92,6.72,953,2,2,0
+135,operating profit,9.77,21.91,4.89,10.96,2633,3,3,0
+198,williams company,11.4,23.58,3.8,7.86,5359,2,2,0
+9,attributable common,8.76,20.99,2.92,7.0,1139,2,2,0
+19,cabot oil,8.98,23.39,1.5,3.9,1203,1,1,0
+11,attributable company,10.17,22.68,3.39,7.56,897,2,2,0
+104,liquid pipeline,10.45,22.48,5.23,11.24,876,3,3,0
+155,pipeline segment,10.45,21.91,5.23,10.96,1032,3,3,0
+111,midstream marketing,8.98,20.0,1.5,3.33,1081,1,1,0
+110,marketing trading,10.45,20.76,5.23,10.38,2613,3,3,0
+60,equatorial guinea,7.56,22.02,2.52,7.34,1108,2,2,0
+20,cabot oil gas,8.98,23.39,1.5,3.9,1203,1,1,0
+164,purchase plan,9.29,21.42,7.74,17.85,1055,5,5,0
+168,refining marketing,10.45,21.35,5.23,10.68,1549,3,3,0
+70,filed exhibit current,10.76,20.14,3.59,6.72,940,2,2,0
+15,bp exploration,7.8,21.98,1.3,3.66,886,1,1,0
+150,performance unit,10.2,21.24,5.1,10.62,1182,3,3,0
+149,performance share award,11.39,22.48,5.69,11.24,1047,3,3,0
+51,energy marketing,10.45,20.76,5.23,10.38,1852,3,3,0
+25,common unit,10.45,20.76,5.23,10.38,2851,3,3,0
+47,drill pipe,10.17,22.87,3.39,7.62,1094,2,2,0
+39,december file,9.83,21.52,9.83,21.52,1001,6,6,0
