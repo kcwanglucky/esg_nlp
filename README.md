@@ -15,10 +15,10 @@ Directory Structure
 esg_nlp
 │   README.md
 │   requirements.txt
-│   notebook.ipynb                  # Title of notebook indicates its content
+│   notebook.ipynb                  # Title of the notebook indicates its content
 │   ...
 │
-└───data                            # `data` folder contains all the required files for the analysis, and some dictionaries
+└───data
 │   │   esg_score.xlsx              # Contain ESG scores for each ticker
 │   │   sp500_component_stocks.csv  # S&P 500 Company to ticker pair
 │   │   stock_info.csv              # Detailed info of each stock
@@ -34,7 +34,7 @@ esg_nlp
 │       │   ...
 │   
 └───utils
-    │   file021.txt                 # Contain util function for crawler, preprocessing, validation, etc.
+    │   file.py                     # Contain util functions for crawler, preprocessing, validation, etc.
     │   ...
 ```
 
