@@ -9,6 +9,34 @@ Navigate to the project root folder and run the following command:
 pip install -r requirements.txt
 ```
 
-## Usage
+## Content Description
+Directory Structure
+```
+esg_nlp
+│   README.md
+│   requirements.txt
+│   notebook.ipynb                  # Title of notebook indicates its content
+│   ...
+│
+└───data                            # `data` folder contains all the required files for the analysis, and some dictionaries
+│   │   esg_score.xlsx              # Contain ESG scores for each ticker
+│   │   sp500_component_stocks.csv  # S&P 500 Company to ticker pair
+│   │   stock_info.csv              # Detailed info of each stock
+│   │
+│   └───goodvbad                    # Contain dictionaries using good versus bad approach
+│   │   │   file1.csv
+│   │   │   file2.csv
+│   │   │   ...
+│   │
+│   └───regression                  # Contain dictionaries using regression approach
+│       │   file1.csv
+│       │   file2.csv
+│       │   ...
+│   
+└───utils
+    │   file021.txt                 # Contain util function for crawler, preprocessing, validation, etc.
+    │   ...
+```
 
-In 4. good_vs_bad.ipynb notebook, run cells to generate the analysis within a sector. There are two `TODO` cells to change, one for sector/score_type, and the other for ngram parameters. It produces csv files that indicate good and bad ngrams in the industry based on the 10-K/10-Q filings.
+## Acknowledgments
+Coworked with Mohammed Al Harmoudi and Siddharth Kantamneni on the project. Supervised by Dr. Stoikov at Cornell and sponsored by Rebellion Research.
